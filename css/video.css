@@ -1,27 +1,13 @@
-.texto-video {
-    margin-top: 64px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
-    font-size: 35px;
-    color: #191919;
-}
 
-div.video {
-background: #C4C4C4;;
-margin: 20px 250px 20px 250px;
-padding: 20px;
-padding-bottom: 31.5%;
-position: relative;
-}
 
-div.video > iframe {
-    position: absolute;
-    top: 5%;
-    left: 5%;
-    width: 90%;
-    height: 90%;
+iframe {
+  padding: 25px;
+  width: 50%;
+  height: 500px;
+  margin: 10% 20% 10% 25%;
+  background-color:  #C4C4C4;
+  box-shadow:  2px 2px 15px rgb(0, 0, 0);
+  
 
 }
+
